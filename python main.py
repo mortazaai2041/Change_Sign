@@ -2,7 +2,7 @@ import logging
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TOKEN = "PASTE_YOUR_NEW_TOKEN_HERE"
+TOKEN = "8347470335:AAF0m7BU7AqNpnQVLVNMbvtpn56zed6yQBA"
 
 logging.basicConfig(level=logging.INFO)
 
